@@ -1,0 +1,125 @@
+{
+  "Business" : [
+    "Sales","Strategy","Management","Business law","Human Resources","Finance","Entrepreneurship",
+    "Operations",
+    "Data analytics"
+  ],
+  "Personal Development" : [
+    "Parenting","Relationships","Self Esteem Development","Personal Branding","Memory and Study skills",
+    "Leadership",
+    "Communications skills","Public Speaking","Management skills","Goal setting","Influence","Writing"
+  ],
+  "Career Development": [
+    "Resume/CV writing","Interviewing skills","Job Search","Personal Networking","Career Coaching",
+    "Organizational Management",
+    "Teaching and academics"
+  ],
+  "Health and fitness": [
+    "Fitness","General health","Community health","Public health","Sports","Nutrition","Yoga",
+    "Mental health","Self defense","Safety and First aid"
+  ],
+  "Marketing": [
+    "Search Engine Optimization","Social Media Marketing","Branding",
+    "Advertisement","Product Marketing","Content Creation","Content Marketing",
+    "Analytics and automation","Digital Marketing"
+  ],
+  "Language": [
+    "English","Spanish","German","French","Japanese","Portuguese","Chinese","Russian","Latin",
+    "Arabic","Hebrew","Italian"
+  ],
+  "Office tools": [
+    "Apple","Google","Oracle","Microsoft"
+  ],
+  "Design": [
+    "Drawing","Photoshop","Adobe Illustrator","Figure drawing",
+    "Logo Design","Cartoon Design","Sketch Drawing","Digital Art","Design thinking"
+  ],
+  "Teaching": [
+    "Instructional Design","Lesson note studies","Teaching tools","Classroom Management",
+    "Administration","Educational Management"
+  ],
+  "Programming Language": [
+    "Python","Java","C#","C++","Visual Basic","Programming Fundamentals"
+  ],
+  "Web Development": [
+    "Javascript","Angular Js","React js","Vue js","Css","HTML",
+    "PHP","Django","Mongodb","Mysql"
+  ],
+  "Technology tools": [
+    "Docker","DevOps","Kubernetes","Jenkins","Cut","Jura","Confluence","Software Testing"
+  ],
+  "Unit Testing": [
+    "API Testing","API","Selenium Webdriver","Selenium testing framework",
+    "Appium","Software Testing studies","Software Development Cycle"
+  ],
+  "Deep learning and Data analysis":[
+    "Python","Machine learning","Big data","Blockchain","Artificial Intelligence",
+    "Enterprise Architect"
+  ],
+  "Game and Animation  Development":[
+    "Blender","Mobile game development","2D game","Unity","C#","",
+    "Game development fundamentals","Unreal engine","3D game","C++",
+    "Animation fundamental","2D animation","3D animation","Whiteboard animation"
+  ],
+  "Mobile Development":[
+    "IOS Development","React Native","Google flutter","Java","Ionic",
+    "Kotlin","Redux framework","Android Development"
+  ],
+  "E-commerce tools":[
+   "Wordpress","Shopify","Dropshipping","Magneto","Shopify Dropshipping","Woo-Ecomerce"
+  ],
+  "Database":[
+    "Sql","Mysql","Sqlite","SQL server","Mongodb","Database management","Microsoft Sql",
+    "Oracle Sql","Oracle Database"
+  ],
+  "Network and Security":[
+    "Ethical Hacking","Cyber Security","Network Security","CISCO CCNA","CompTIA Network",
+    "IT Network Fundamental","Penetration testing","Wire shark"
+  ],
+  "Hardware":[
+    "Micro controller","Arduino","PLC","Raspberry pi","Electronics","Automation control",
+    "Cell phone repair","Computer repair","Electricals"
+  ],
+  "Certifications":[
+    "CISCO CCNA","Microsoft Azure","Amazon AWS","ICAN","STAT","GRE","GMAT","TOEFL","IELTS"
+  ],
+  "Entrepreneurship":[
+    "Event Decoration","Bead Making","Catering","Interior Decoration","Fashion Design","Painting",
+    "Photography","Videography","Startup","Entrepreneurship fundamentals",
+    "Marketing","Sales","Business Strategy","Business writing","Innovation"
+  ],
+  "Agriculture":[
+    "Poultry","Fish farming","Cassava cultivation","Weeding","Insecticide","Pesticide"
+  ],
+  "Beauty and Makeup":[
+    "Cosmetics","Makeup Artistry","Nail art","Skin care","Hair styling","Hair making","Soap making",
+    "Facial massage","Fashion modelling","Gele tying"
+  ],
+  "Music and Vocal Training":[
+    "Piano mastery","Music studies","Music production","Keyboard  Mastery",
+    "Drum Mastery","Band Mastery","Violin Mastery","Trumpet Mastery"
+  ],
+  "Creative arts and Media":[
+    "Blogging","Digital Photography","Photography fundamental","Portraits","Photography tools",
+    "Commercial photography","Video making","Video design","Video fundamentals","Film making",
+    "Copyright and the business of creative industry","Film distribution","Video game design and development",
+    "Poetry","Writing","Podcasting","Film education","Fashion and Creativity"
+  ],
+  "Senior Secondary School":[
+    "Mathematics","English Language","Physics","Chemistry","Biology","Agricultural Science","Computer Studies",
+    "Entrepreneurship studies","Further Mathematics","Technical Drawing","Economics","Literature in English",
+    "Government","History","Commerce","Christian Religious Studies or Islamic Religious Studies","Arabic",
+    "Civic Education","Biology/Agricultural Science","Yoruba or Igbo or Hausa"
+  ],
+  "Junior Secondary School":[
+    "Mathematics","English Language","A Nigerian Language (Yoruba,Hausa,Igbo)","Basic Science",
+    "Social Studies","Fine Arts/Creative Art","Agricultural Science","Civic Education","Christian Religion Studies",
+    "Physical and Health Education","Business Studies","French","Computer Studies","Home Economics","Music",
+    "Basic Technology"
+  ],
+  "Primary School":[
+    "Mathematics","English","Nigerian Languages","Religion and National values","Basic Science and Technology",
+    "Cultural and Creative Arts","Pro Vocational studies"
+  ]
+
+}

@@ -1,0 +1,9 @@
+node_modules/
+logs/*
+!logs/.gitkeep
+*.log
+.env
+.vscode/
+media/*
+!media/.gitkeep
+.idea

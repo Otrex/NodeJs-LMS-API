@@ -1,0 +1,27 @@
+{
+		"user" : [],
+		"course" : [
+			{
+				"title" : "Buying an iPhone free - fufu as a service",
+				"about":"Come buy iphone oh! - 20k Only"
+			},
+			{
+				"title" : "Buying Phone free - fufu as a service",
+				"about":"Come buy iphone oh! - 20k Only"
+			}
+		],
+		"lecture":[
+			{
+				"title":"Stealing the phone basically.."
+			},
+			{
+				"title":"Also, running away!"
+			}
+		],
+		"media": [
+			{
+				"url" : "sndksskxmz/cnsk/path",
+				"lectureId":"0244e450-b96b-11ea-a6dd-4185d423de4b"
+			}
+		]
+}

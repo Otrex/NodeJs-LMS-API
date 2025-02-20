@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cloud-dumo-lms-api-<ENVIRONMENT>
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cloud-dumo-lms-api-<ENVIRONMENT>
+      environment: <ENVIRONMENT>
+  template:
+    metadata:
+      labels:
+        app: cloud-dumo-lms-api-<ENVIRONMENT>
+        environment: <ENVIRONMENT>
+    spec:
+      containers:
+        - name: cloud-dumo-lms-api-<ENVIRONMENT>
+          image: <IMAGE>
+          envFrom:
+            - configMapRef:
+                name: cloud-dumo-lms-api-env-config-<ENVIRONMENT>
