@@ -1,6 +1,6 @@
 const commonFields = {
-  from_name: "Dumo Cloud",
-  from_email: "noreply@dumo.cloud"
+  from_name: "Cloud",
+  from_email: "noreply@cloud"
 };
 
 module.exports = {
